@@ -1,0 +1,8 @@
+go 1.18
+
+use (
+	./gin_demo
+	./go_template
+	./go_template2
+	./gin_template
+)
