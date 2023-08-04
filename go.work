@@ -2,7 +2,16 @@ go 1.18
 
 use (
 	./gin_demo
+	./gin_pathpara
+	./gin_template
+	./gin_template_demo
 	./go_template
 	./go_template2
-	./gin_template
+	./gin_parabinding
+	./gin_upload
+	./gin_redirect
+	./gin_form
+	./gin_json
+	./gin_querystring
+	./gin_router
 )
